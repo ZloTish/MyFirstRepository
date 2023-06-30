@@ -1,5 +1,5 @@
-# EduProject
- Education Project
+# MyFirstRepository
+MyFirstRepository
 
 Лекция №1.1 “Структура. HTML. Часть 1”
 
